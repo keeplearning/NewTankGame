@@ -1,0 +1,13 @@
+#pragma once
+class GameLoad
+{
+public:
+	GameLoad();
+	~GameLoad();
+public:
+	//”Œœ∑¥Êµµ
+	void GameSave();
+	//”Œœ∑∂¡µµ
+	void GameRead();
+};
+
